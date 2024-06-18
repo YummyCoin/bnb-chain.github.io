@@ -1,4 +1,4 @@
-# Welcome to BNBChain Knowledge Base
+# Welcome to BNBChain Knowledge Basescan 
 
 This is the BNBChain Knowledge Base documentation for the BNBChain developers. It is based on the Mkdocs Material theme. 
 
